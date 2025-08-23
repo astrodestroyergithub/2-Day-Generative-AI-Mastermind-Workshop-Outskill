@@ -23,4 +23,4 @@ This repo contains all the notes which I could collect during the 2 day workshop
 18. Claude (preferred) / Gemini, Veo 3, ChatGPT 5, Krea.ai, Midjourney, Higgsfield, 11ElevenLabs, Suno.ai, Final Cut Pro, etc.
 19. Session-2 Resources (Detailed):
 
-## Day 1:
+## Day 2:
