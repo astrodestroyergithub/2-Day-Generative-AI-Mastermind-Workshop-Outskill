@@ -24,3 +24,22 @@ This repo contains all the notes which I could collect during the 2 day workshop
 19. Session-2 Resources (Detailed):
 
 ## Day 2:
+
+1. Create AI Bots.
+2. Explore GPTs (GPT’s Marketplace)
+3. Create your own AI Agent that mimics your writing style to create viral posts on LinkedIn, AI that gets trained on your voice and is used when you chat with it, AI to make presentations, etc.
+4. Vapi, Chronicle - AI PPT Generator.
+5. Bolt.ai
+6. Ollama
+7. Session-3 Resources (Detailed): https://link.outskill.com/resource-session3
+8. Automation using AI by K V S Dileep.
+9. RPA like Assembly Lines (limited use cases), Computer Physical Task Automation (very limited use cases), Software Task Automation (widely used).
+10. How does a software controls and talks with another software? - APIs
+11. GET, POST, DELETE, PUT, etc.
+12. What can be Automated? / What can’t be Automated?
+13. No Code / Low Code (Platforms): Make.com, etc.
+14. Pre-Automation Checklist (Best Practices)
+15. make.com (scenario, etc.)
+16. LinkedIn Post Automation (Get Post Written By AI, Create Post Image, Review The Post, Post Image + Article Written By AI)
+17. Start Small => Test The Simple Flow => Add More Complexity
+18. Session-4 Resources (Detailed):
